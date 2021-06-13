@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ===== BOX ICONS ===== -->
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    <!-- ===== CSS ===== -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <!-- JAVASCRIPT -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    <title>Pengaduan Masyarakat - PRINT</title>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-12" style="height: 80px; background-color: #444444">
+            <h5 class="text-light text-center mt-4">Pengaduan Masyarakat Skrip Transaski</h5>
+        </div>
+        <div class="col-12 text-center mt-2">
+            <h3>INVOICE</h3><hr>
+            <p>14-12-2020</p>
+        </div>
+        <table class="table table-sm table-hover mt-3 mb-5 justify-content-center">
+            <thead>
+                <tr>                
+                    <th>Nama</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <td>{{ $data->atas_nama }}</td>
+                </tr>
+            </thead><br><br>
+            <tbody>
+                <tr>
+                    <th>Jenis pembayaran</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <td>{{ $data->jenis_pembayaran }}</td>
+                </tr>
+                <tr>
+                    <th>Price</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <td>Rp {{ $data->nominal }}</td>
+                </tr> 
+                <tr>
+                    <th>Bayar</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <td>Rp {{ $payment->bayar }}</td>
+                </tr>  
+                <tr>
+                    <th>Kembalian</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <th>&nbsp;</th>
+                    <td>Rp {{ $payment->kembalian }}</td>
+                </tr>
+            </tbody><hr>
+        </table>
+    </div>
+</body>
+</html>

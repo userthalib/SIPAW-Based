@@ -46,6 +46,28 @@ return [
             'provider' => 'users',
             'hash' => false,
         ],
+
+        'admin' => [
+            'driver' => 'session',
+            'provider' => 'admin',
+        ],
+
+        'admin-api' => [
+            'driver' => 'token',
+            'provider' => 'admin',
+            'hash' => false,
+        ],
+
+        'masyarakat' => [
+            'driver' => 'session',
+            'provider' => 'masyarakat',
+        ],
+
+        'masyarakat-api' => [
+            'driver' => 'token',
+            'provider' => 'masyarakat',
+            'hash' => false,
+        ],
     ],
 
     /*
@@ -69,6 +91,16 @@ return [
         'users' => [
             'driver' => 'eloquent',
             'model' => App\Models\User::class,
+        ],
+
+        'admin' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\admin::class,
+        ],
+
+        'masyarakat' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\masyarakat::class,
         ],
 
         // 'users' => [

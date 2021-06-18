@@ -22,8 +22,6 @@
                         </div>
                     </div>
                     @endif
-                    {{-- Button tambah --}}
-                    {{-- <a href="{{ route('pengaduan.create') }}" class="btn btn-violet mb-4"><i class="fas fa-plus text-light"></i></a> --}}
                     
                     {{-- Form search --}}
                     <div class="float-right">
@@ -79,7 +77,6 @@
 
                                 <script>
                                 $(".confirm_script-{{$item->id_pengaduan}}").click(function(e) {
-                                // id = e.target.dataset.id;
                                 swal({
                                     title: 'Yakin hapus data?',
                                     text: 'Data yang dihapus tidak bisa di kembalikan',

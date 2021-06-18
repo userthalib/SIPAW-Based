@@ -22,10 +22,6 @@
                         </div>
                     </div>
                     @endif
-                    {{-- Button tambah --}}
-                    {{-- <a href="{{ route('tanggapan.create') }}" class="btn btn-violet mb-4"><i class="fas fa-plus text-light"></i></a> --}}
-                    
-                    {{-- Form search --}}
                     <div class="float-right">
                         <form action="?" method="GET">
                           <div class="input-group mb-3">

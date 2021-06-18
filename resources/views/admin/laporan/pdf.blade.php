@@ -51,7 +51,7 @@
 		<td></td>
 		<td width="200px">
 			<BR/>
-			<p>Padaherang , <?= date('d/m/y') ?> <br/>
+			<p>Malang , <?= date('d/m/y') ?> <br/>
                 {{ Auth::guard('admin')->user()->nama_petugas }},
 			<br/>
 			<br/>

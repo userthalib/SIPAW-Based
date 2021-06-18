@@ -83,17 +83,6 @@ class LaporanController extends Controller
 
         // tanggal
         $ke = $request->ke; $dari = $request->dari;
-    
-        // return view('admin/laporan.pdf',[
-        //     'hitungtp'=>$hitungtp,
-        //     'hitungtg'=>$hitungtg,
-        //     'terkirim'=>$terkirim,
-        //     'proses'=>$proses,
-        //     'selesai'=>$selesai,
-        //     'masyarakat'=>$masyarakat,
-        //     'petugas'=>$petugas,
-        //     'ke'=>$ke,'dari'=>$dari
-        // ]);
 
         $pdf = PDF::loadview('admin/laporan.pdf',[
             'hitungtp'=>$hitungtp,

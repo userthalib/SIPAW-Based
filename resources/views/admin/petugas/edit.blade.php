@@ -91,7 +91,7 @@
             </div>
           </div>
 
-          {{-- kompetensi --}}
+          {{-- Level --}}
           <div class="col-md-6">
             <div class="form-group">
               <label @error('level') class="text-danger" @enderror>

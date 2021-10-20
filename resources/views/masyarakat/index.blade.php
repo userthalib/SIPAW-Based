@@ -170,7 +170,7 @@
                         <a class="social-link rounded-circle text-white" href="#!"><i class="icon-social-github"></i></a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-0">Copyright &copy; Faris Irfan 2021</p>
+                <p class="text-muted small mb-0">Copyright &copy; Kelompok3 2021</p>
             </div>
         </footer>
         <!-- Scroll to Top Button-->

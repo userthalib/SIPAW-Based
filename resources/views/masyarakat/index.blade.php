@@ -35,7 +35,7 @@
                         <p class="lead mb-5">
                             Kami siap menampung Aspirasimu!
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">Fitur Yang Dapat Diakses</a>
+                        <a class="btn btn-dark btn-xl" href="#services">Fitur Unggulan</a>
                     </div>
                 </div>
             </div>

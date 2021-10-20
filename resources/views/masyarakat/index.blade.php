@@ -144,7 +144,7 @@
         <!-- Call to Action-->
         <section class="content-section bg-primary text-white">
             <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">Ayo Bergabung Dengan Kami!</h2>
+                <h2 class="mb-4">Jangan Takut Melaporkan!</h2>
                 @if (Auth::guard('masyarakat')->check())
                 <a href="masyarakat_pengaduan" class="btn btn-xl btn-light me-4">Isi pengaduan</a>
                 &nbsp;

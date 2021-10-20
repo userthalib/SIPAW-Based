@@ -79,9 +79,9 @@
         <section class="callout">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mx-auto mb-5">
-                    Katakan Halo Pada tempat
-                    <em>curhat</em>
-                    Favorit Mahasiswa
+                    Tempat
+                    <em>lapor</em>
+                    Terbaik
                 </h2>
                 <a class="btn btn-primary btn-xl" href="/register">Daftar Sekarang!</a><!-- ROUTE KE DAFTAR-->
             </div>

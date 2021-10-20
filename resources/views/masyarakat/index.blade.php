@@ -146,13 +146,13 @@
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4">Jangan Takut Melaporkan!</h2>
                 @if (Auth::guard('masyarakat')->check())
-                <a href="masyarakat_pengaduan" class="btn btn-xl btn-light me-4">Isi pengaduan</a>
+                <a href="masyarakat_pengaduan" class="btn btn-xl btn-light me-4">Isi Laporan</a>
                 &nbsp;
-                <a href="history" class="btn btn-xl btn-dark">history pengaduan</a>
+                <a href="history" class="btn btn-xl btn-dark">Riwayat Laporan</a>
                 @else 
-                <a href="#" id="swal-6" class="btn btn-xl btn-dark">Isi pengaduan</a>
+                <a href="#" id="swal-6" class="btn btn-xl btn-dark">Isi Laporan</a>
                 &nbsp;
-                <a href="#" id="swal-6" class="btn btn-xl btn-dark">history pengaduan</a>                
+                <a href="#" id="swal-6" class="btn btn-xl btn-dark">Riwayat Laporan</a>                
                 @endif
             </div>
         </section>

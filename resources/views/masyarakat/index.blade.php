@@ -102,7 +102,7 @@
                                     <p class="mb-0">Mahasiswa yang memiliki ide-ide yang dapat memajukan JTI namun malu untuk menyampaikannya secara langsung.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/phenom1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/aspi.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -113,7 +113,7 @@
                                     <p class="mb-0">Kritik dan saran mengenai pembelajaran di JTI.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/acci1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/krisan.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -124,7 +124,7 @@
                                     <p class="mb-0">Lampu & Air Conditioner tidak menyala, Kartu listrik hilang, Meja Kursi sudah Usang, dan berbagai sarana kampus yang harusnya diganti</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/disas1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/kacpec.png" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -135,7 +135,7 @@
                                     <p class="mb-0">Pencurian, Copet, Bullying, dan hal-hal yang melanggar aturan kampus.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/crimin1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/bully.jpg" alt="..." />
                         </a>
                     </div>
                 </div>

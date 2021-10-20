@@ -98,8 +98,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Fenomena Alam</div>
-                                    <p class="mb-0">Gerhana, Fenomena, Sampai hal berbau mistis</p>
+                                    <div class="h2">Aspirasi</div>
+                                    <p class="mb-0">Mahasiswa yang memiliki ide-ide yang dapat memajukan JTI namun malu untuk menyampaikannya secara langsung.</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/phenom1.jpg" alt="..." />
@@ -109,8 +109,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Kecelakaan</div>
-                                    <p class="mb-0">Kecelakaan mobil, motor, dan hal-hal yang membutuhkan bantuan medis</p>
+                                    <div class="h2">Kritik & Saran</div>
+                                    <p class="mb-0">Kritik dan saran mengenai pembelajaran di JTI.</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/acci1.jpg" alt="..." />
@@ -120,8 +120,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Bencana Alam</div>
-                                    <p class="mb-0">Banjir, Kebakaran, Tsunami, dan kerusakan akibat gempa bumi dan membutuhkan banyak bantuan</p>
+                                    <div class="h2">Kerusakan Sarana</div>
+                                    <p class="mb-0">Lampu & Air Conditioner tidak menyala, Kartu listrik hilang, Meja Kursi sudah Usang, dan berbagai sarana kampus yang harusnya diganti</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/disas1.jpg" alt="..." />
@@ -132,7 +132,7 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <div class="h2">Kriminalitas</div>
-                                    <p class="mb-0">Pencurian, Copet, Jambret dimana polisi dibutuhkan secepatnya.</p>
+                                    <p class="mb-0">Pencurian, Copet, Bullying, dan hal-hal yang melanggar aturan kampus.</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/crimin1.jpg" alt="..." />

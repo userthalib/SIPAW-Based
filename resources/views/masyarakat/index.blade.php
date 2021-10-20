@@ -44,25 +44,25 @@
         <section class="content-section bg-primary text-white text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Servis</h3>
-                    <h2 class="mb-5">Yang Kami Tawarkan</h2>
+                    <h3 class="text-secondary mb-0">Jasa</h3>
+                    <h2 class="mb-5">Untuk Mahasiswa</h2>
                 </div>
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
-                        <h4><strong>Selalu Siap</strong></h4>
-                        <p class="text-faded mb-0">Selalu ada kapan saja.</p>
+                        <h4><strong>24/7</strong></h4>
+                        <p class="text-faded mb-0">Mahasiswa dapat melapor kapanpun.</p>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
                         <h4><strong>Responsif</strong></h4>
-                        <p class="text-faded mb-0">Begitu anda mengadu, kami akan meneruskan aduan ke pihak yang berwajib.</p>
+                        <p class="text-faded mb-0">Laporan akan secepat mungkin diproses.</p>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
                         <h4><strong>Disukai</strong></h4>
                         <p class="text-faded mb-0">
-                            Family
+                            Student
                             <i class="fas fa-heart"></i>
                             Friendly
                         </p>
@@ -70,7 +70,7 @@
                     <div class="col-lg-3 col-md-6">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
                         <h4><strong>Privasi</strong></h4>
-                        <p class="text-faded mb-0">Identitas pelapor aman bersama kami.</p>
+                        <p class="text-faded mb-0">Identitas pelapor aman.</p>
                     </div>
                 </div>
             </div>

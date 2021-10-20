@@ -31,11 +31,11 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Sistem Pengaduan Masyarakat Akan Menjadi Teman Baru Kamu!</h2>
+                        <h2>Sistem Pengaduan Mahasiswa Akan Menjadi Teman Baru Kamu!</h2>
                         <p class="lead mb-5">
-                            Kami siap meneruskan laporan anda kapanpun
+                            Kami siap menampung Aspirasimu!
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">Yang Kami Tawarkan</a>
+                        <a class="btn btn-dark btn-xl" href="#services">Fitur Yang Dapat Diakses</a>
                     </div>
                 </div>
             </div>

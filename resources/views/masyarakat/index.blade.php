@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Sistem Pengaduan Masyarakat</title>
+        <title>Sistem Pengaduan Mahasiswa</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -21,8 +21,8 @@
         <!-- Header-->
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
-                <h1 class="mb-1">Sistem Pengaduan Masyarakat</h1>
-                <h3 class="mb-5"><em>Terjadi Fenomena di Sekitar Anda? Adukan Pada Kami!</em></h3>
+                <h1 class="mb-1">Sistem Pengaduan Mahasiswa</h1>
+                <h3 class="mb-5"><em>Punya Aspirasi tapi tidak tau bagaimana menyalurkannya? Laporkan Pada Kami!</em></h3>
                 <a class="btn btn-primary btn-xl" href="/loginmasyarakat">Login</a><!-- ROUTE KE LOGIN-->
             </div>
         </header>
@@ -31,11 +31,11 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Sistem Pengaduan Masyarakat Akan Menjadi Teman Baru Kamu!</h2>
+                        <h2>Sistem Pengaduan Mahasiswa Akan Menjadi Teman Baru Kamu!</h2>
                         <p class="lead mb-5">
-                            Kami siap meneruskan laporan anda kapanpun
+                            Kami siap menampung Aspirasimu!
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">Yang Kami Tawarkan</a>
+                        <a class="btn btn-dark btn-xl" href="#services">Fitur Unggulan</a>
                     </div>
                 </div>
             </div>
@@ -44,25 +44,25 @@
         <section class="content-section bg-primary text-white text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Servis</h3>
-                    <h2 class="mb-5">Yang Kami Tawarkan</h2>
+                    <h3 class="text-secondary mb-0">Jasa</h3>
+                    <h2 class="mb-5">Untuk Mahasiswa</h2>
                 </div>
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
-                        <h4><strong>Selalu Siap</strong></h4>
-                        <p class="text-faded mb-0">Selalu ada kapan saja.</p>
+                        <h4><strong>24/7</strong></h4>
+                        <p class="text-faded mb-0">Mahasiswa dapat melapor kapanpun.</p>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
                         <h4><strong>Responsif</strong></h4>
-                        <p class="text-faded mb-0">Begitu anda mengadu, kami akan meneruskan aduan ke pihak yang berwajib.</p>
+                        <p class="text-faded mb-0">Laporan akan secepat mungkin diproses.</p>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
                         <h4><strong>Disukai</strong></h4>
                         <p class="text-faded mb-0">
-                            Family
+                            Student
                             <i class="fas fa-heart"></i>
                             Friendly
                         </p>
@@ -70,7 +70,7 @@
                     <div class="col-lg-3 col-md-6">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
                         <h4><strong>Privasi</strong></h4>
-                        <p class="text-faded mb-0">Identitas pelapor aman bersama kami.</p>
+                        <p class="text-faded mb-0">Identitas pelapor aman.</p>
                     </div>
                 </div>
             </div>
@@ -79,9 +79,9 @@
         <section class="callout">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mx-auto mb-5">
-                    Katakan Halo Pada tempat
-                    <em>melapor</em>
-                    Terbaikmu!
+                    Tempat
+                    <em>lapor</em>
+                    Terbaik
                 </h2>
                 <a class="btn btn-primary btn-xl" href="/register">Daftar Sekarang!</a><!-- ROUTE KE DAFTAR-->
             </div>
@@ -98,33 +98,33 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Fenomena Alam</div>
-                                    <p class="mb-0">Gerhana, Fenomena, Sampai hal berbau mistis</p>
+                                    <div class="h2">Aspirasi</div>
+                                    <p class="mb-0">Mahasiswa yang memiliki ide-ide yang dapat memajukan JTI namun malu untuk menyampaikannya secara langsung.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/phenom1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/aspi.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Kecelakaan</div>
-                                    <p class="mb-0">Kecelakaan mobil, motor, dan hal-hal yang membutuhkan bantuan medis</p>
+                                    <div class="h2">Kritik & Saran</div>
+                                    <p class="mb-0">Kritik dan saran mengenai pembelajaran di JTI.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/acci1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/krisan.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Bencana Alam</div>
-                                    <p class="mb-0">Banjir, Kebakaran, Tsunami, dan kerusakan akibat gempa bumi dan membutuhkan banyak bantuan</p>
+                                    <div class="h2">Kerusakan Sarana</div>
+                                    <p class="mb-0">Lampu & Air Conditioner tidak menyala, Kartu listrik hilang, Meja Kursi sudah Usang, dan berbagai sarana kampus yang harusnya diganti</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/disas1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/kacpec.png" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -132,10 +132,10 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <div class="h2">Kriminalitas</div>
-                                    <p class="mb-0">Pencurian, Copet, Jambret dimana polisi dibutuhkan secepatnya.</p>
+                                    <p class="mb-0">Pencurian, Copet, Bullying, dan hal-hal yang melanggar aturan kampus.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/crimin1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/bully.jpg" alt="..." />
                         </a>
                     </div>
                 </div>
@@ -144,15 +144,15 @@
         <!-- Call to Action-->
         <section class="content-section bg-primary text-white">
             <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">Ayo Bergabung Dengan Kami!</h2>
+                <h2 class="mb-4">Jangan Takut Melaporkan!</h2>
                 @if (Auth::guard('masyarakat')->check())
-                <a href="masyarakat_pengaduan" class="btn btn-xl btn-light me-4">Isi pengaduan</a>
+                <a href="masyarakat_pengaduan" class="btn btn-xl btn-light me-4">Isi Laporan</a>
                 &nbsp;
-                <a href="history" class="btn btn-xl btn-dark">history pengaduan</a>
+                <a href="history" class="btn btn-xl btn-dark">Riwayat Laporan</a>
                 @else 
-                <a href="#" id="swal-6" class="btn btn-xl btn-dark">Isi pengaduan</a>
+                <a href="#" id="swal-6" class="btn btn-xl btn-dark">Isi Laporan</a>
                 &nbsp;
-                <a href="#" id="swal-6" class="btn btn-xl btn-dark">history pengaduan</a>                
+                <a href="#" id="swal-6" class="btn btn-xl btn-dark">Riwayat Laporan</a>                
                 @endif
             </div>
         </section>
@@ -170,7 +170,7 @@
                         <a class="social-link rounded-circle text-white" href="#!"><i class="icon-social-github"></i></a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-0">Copyright &copy; Faris Irfan 2021</p>
+                <p class="text-muted small mb-0">Copyright &copy; Kelompok3 2021</p>
             </div>
         </footer>
         <!-- Scroll to Top Button-->

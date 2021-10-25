@@ -21,7 +21,7 @@
         <!-- Header-->
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
-                <h1 class="mb-1">Sistem Pengaduan Masyarakat</h1>
+                <h1 class="mb-1">Sistem Pengaduan Mahasiswa</h1>
                 <h3 class="mb-5"><em>Terjadi Fenomena di Sekitar Anda? Adukan Pada Kami!</em></h3>
                 <a class="btn btn-primary btn-xl" href="/loginmasyarakat">Login</a><!-- ROUTE KE LOGIN-->
             </div>
@@ -31,7 +31,7 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Sistem Pengaduan Masyarakat Akan Menjadi Teman Baru Kamu!</h2>
+                        <h2>Sistem Pengaduan Mahasiswa Akan Menjadi Teman Baru Kamu!</h2>
                         <p class="lead mb-5">
                             Kami siap meneruskan laporan anda kapanpun
                         </p>
@@ -98,8 +98,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Fenomena Alam</div>
-                                    <p class="mb-0">Gerhana, Fenomena, Sampai hal berbau mistis</p>
+                                    <div class="h2">Perkuliahan</div>
+                                    <p class="mb-0">Materi yang sulit dipahami, kondisi belajar mengajar di kelas</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/phenom1.jpg" alt="..." />
@@ -109,8 +109,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Kecelakaan</div>
-                                    <p class="mb-0">Kecelakaan mobil, motor, dan hal-hal yang membutuhkan bantuan medis</p>
+                                    <div class="h2">Sarana & Pra Sarana</div>
+                                    <p class="mb-0">Bangku yang rusak, proyektor yang tidak bisa digunakan, tinta spidol habis</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/acci1.jpg" alt="..." />
@@ -120,8 +120,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Bencana Alam</div>
-                                    <p class="mb-0">Banjir, Kebakaran, Tsunami, dan kerusakan akibat gempa bumi dan membutuhkan banyak bantuan</p>
+                                    <div class="h2">Organisasi</div>
+                                    <p class="mb-0">Temuan kasus korupsi, pengurus organisasi yang tidak menjalankan tugasnya dengan baik</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/disas1.jpg" alt="..." />
@@ -131,8 +131,8 @@
                         <a class="portfolio-item">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Kriminalitas</div>
-                                    <p class="mb-0">Pencurian, Copet, Jambret dimana polisi dibutuhkan secepatnya.</p>
+                                    <div class="h2">Jurusan</div>
+                                    <p class="mb-0">Dosen yang kurang berinteraksi dengan mahasiswa, pemberitahuan yang kurang akan sosialisasi</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/crimin1.jpg" alt="..." />
@@ -170,7 +170,7 @@
                         <a class="social-link rounded-circle text-white" href="#!"><i class="icon-social-github"></i></a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-0">Copyright &copy; Faris Irfan 2021</p>
+                <p class="text-muted small mb-0">Copyright &copy; Kelompok 3</p>
             </div>
         </footer>
         <!-- Scroll to Top Button-->

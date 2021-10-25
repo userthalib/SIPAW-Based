@@ -74,7 +74,7 @@
               </div>
             </div>
             <div class="simple-footer">
-              Copyright &copy; Faris Irfan 2021
+              Copyright &copy; Kelompok 3
             </div>
           </div>
         </div>

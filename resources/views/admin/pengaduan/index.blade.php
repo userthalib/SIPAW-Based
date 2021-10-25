@@ -39,7 +39,7 @@
                         <thead>
                             <tr>
                                 <th>No</th>
-                                <th>Nik</th>
+                                <th>NIM</th>
                                 <th>Nama_pengaduan</th>
                                 <th>Tanggal pengaduan</th>
                                 <th>status</th>

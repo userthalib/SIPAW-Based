@@ -43,7 +43,7 @@
                         <thead>
                             <tr>
                                 <th>No</th>
-                                <th>Nik</th>
+                                <th>NIM</th>
                                 <th>nama</th>
                                 <th>Telp</th>
                                 <th>username</th>

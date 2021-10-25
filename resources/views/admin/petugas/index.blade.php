@@ -43,7 +43,7 @@
                         <thead>
                             <tr>
                                 <th>No</th>
-                                <th>Nama_petugas</th>
+                                <th>Admin</th>
                                 <th>Username</th>
                                 <th>Telp</th>
                                 <th>Level</th>

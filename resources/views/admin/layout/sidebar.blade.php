@@ -1,7 +1,7 @@
 <div class="main-sidebar">
   <aside id="sidebar-wrapper">
     <div class="sidebar-brand">
-      <a href="index.html">PENGADUAN MASYARAKAT</a>
+      <a href="index.html">PENGADUAN MAHASISWA</a>
     </div>
     <div class="sidebar-brand sidebar-brand-sm">
       <a href="index.html">PD</a>

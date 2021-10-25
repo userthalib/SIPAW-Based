@@ -22,11 +22,8 @@
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
                 <h1 class="mb-1">Sistem Pengaduan Mahasiswa</h1>
-<<<<<<< HEAD
                 <h3 class="mb-5"><em>Terjadi Fenomena di Sekitar Anda? Adukan Pada Kami!</em></h3>
-=======
                 <h3 class="mb-5"><em>Punya Aspirasi tapi tidak tau bagaimana menyalurkannya? Laporkan Pada Kami!</em></h3>
->>>>>>> b134a22e39eda6acba07877e4fbf960cffe3376b
                 <a class="btn btn-primary btn-xl" href="/loginmasyarakat">Login</a><!-- ROUTE KE LOGIN-->
             </div>
         </header>
@@ -174,11 +171,7 @@
                         <a class="social-link rounded-circle text-white" href="#!"><i class="icon-social-github"></i></a>
                     </li>
                 </ul>
-<<<<<<< HEAD
-                <p class="text-muted small mb-0">Copyright &copy; Kelompok 3</p>
-=======
-                <p class="text-muted small mb-0">Copyright &copy; Kelompok3 2021</p>
->>>>>>> b134a22e39eda6acba07877e4fbf960cffe3376b
+                <p class="text-muted small mb-0">Copyright &copy; Kelompok 3 2021</p>
             </div>
         </footer>
         <!-- Scroll to Top Button-->

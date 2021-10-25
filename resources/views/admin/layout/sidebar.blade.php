@@ -15,7 +15,7 @@
         {{-- Entry data --}}
         <li class="menu-header">Entry data</li>
         <li class="@yield('petugas')"><a class="nav-link" href="/petugas"><i class="fas fa-user"></i> <span>Petugas</span></a></li>
-        <li class="@yield('masyarakat')"><a class="nav-link" href="/masyarakat"><i class="fas fa-user"></i> <span>Masyarakat</span></a></li>
+        <li class="@yield('masyarakat')"><a class="nav-link" href="/masyarakat"><i class="fas fa-user"></i> <span>Mahasiswa</span></a></li>
 
         @endif
 
